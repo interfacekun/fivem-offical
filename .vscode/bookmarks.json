@@ -1,0 +1,14 @@
+{
+	"files": [
+		{
+			"path": "code/components/net/src/NetLibrary.cpp",
+			"bookmarks": [
+				{
+					"line": 812,
+					"column": 37,
+					"label": "查看服务器地址"
+				}
+			]
+		}
+	]
+}
