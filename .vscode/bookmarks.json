@@ -9,6 +9,16 @@
 					"label": "查看服务器地址"
 				}
 			]
+		},
+		{
+			"path": "code/components/citizen-server-impl/src/ResourceHttpHandler.cpp",
+			"bookmarks": [
+				{
+					"line": 66,
+					"column": 19,
+					"label": "资源http服务器请求处理"
+				}
+			]
 		}
 	]
 }
